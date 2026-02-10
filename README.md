@@ -19,7 +19,7 @@ cudatoolkit=11.1.1
 You can train ASAP model by these commands.
 ```
 cd ./ASAP
-cp ./scripts/ASAP/ETTh1_ASAP.sh
+cp ./scripts/ASAP/ETTh1_ASAP.sh ./
 
 bash ETTh1_ASAP.sh
 ```
